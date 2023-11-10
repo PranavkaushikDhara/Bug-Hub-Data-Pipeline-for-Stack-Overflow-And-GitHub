@@ -1,7 +1,7 @@
 # edgedb-github
 This code pulls the data from different repositories and places it in edgedb.<br>
 
-Designed and implemented a data pipeline to create a Knowledge Graph from 10+ GitHub repositories and 200,000 StackOverflow posts, replicaJng the StackOverflow database model in Edgedb and inserJng over 200k posts.
+Designed and implemented a data pipeline to create a Knowledge Graph from 10+ GitHub repositories and 200,000 StackOverflow posts, replicating the StackOverflow database model in Edgedb and inserting over 200k posts.
 
 Install edgedb on your System.<br>
 Clone the project and run "edgedb project init" command in the terminal from this directory.<br>
